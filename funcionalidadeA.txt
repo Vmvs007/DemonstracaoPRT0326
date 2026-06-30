@@ -1,4 +1,20 @@
+funçãoEspetacular{
+	12345
+	12345
+}
+
 qwertyukm
 nsezrghjn
+
+funçãoMuitoBoa{
+	12345
+	12345
+}
+
 serdthxbv
 ghztbzdvawe
+
+funçãoMaisOuMenos{
+	12345
+	12345
+}
