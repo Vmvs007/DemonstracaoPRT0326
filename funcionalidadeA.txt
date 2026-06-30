@@ -1,0 +1,14 @@
+funçãoEspetacular{
+	12345
+	12345
+}
+
+funçãoMuitoBoa{
+	12345
+	12345
+}
+
+funçãoMaisOuMenos{
+	12345
+	12345
+}
